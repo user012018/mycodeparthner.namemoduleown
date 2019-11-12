@@ -1,8 +1,10 @@
-───mycodeparthner.namemoduleown
-    ├───name.componentone
-    │   │   .description.php
-    │   │   .parameters.php
-    │   │   class.php
+
+
+    mycodeparthner.namemoduleown
+    ├───name.componentone   
+    │   │   .description.php    
+    │   │   .parameters.php    
+    │   │   class.php    
     │   │   
     │   ├───lang
     │   │   └───ru
