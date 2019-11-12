@@ -1,0 +1,1 @@
+var actbtn=$('#button2id');
