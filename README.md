@@ -1,36 +1,30 @@
-‘âàãªâãà  ¯ ¯®ª â®¬  discD
-‘¥à¨©­ë© ­®¬¥à â®¬ : 00000077 0A28:E3AE
-D:.
-³   README.md
-³   
-ÀÄÄÄmycodeparthner.namemoduleown
-    ÃÄÄÄname.componentone
-    ³   ³   .description.php
-    ³   ³   .parameters.php
-    ³   ³   class.php
-    ³   ³   
-    ³   ÃÄÄÄlang
-    ³   ³   ÀÄÄÄru
-    ³   ³           .description.php
-    ³   ³           .parameters.php
-    ³   ³           
-    ³   ÀÄÄÄtemplates
-    ³       ÀÄÄÄ.default
-    ³               script.js
-    ³               style.css
-    ³               template.php
-    ³               
-    ÀÄÄÄname.componenttwo
-        ³   .description.php
-        ³   .parameters.php
-        ³   class.php
-        ³   
-        ÃÄÄÄlang
-        ³   ÀÄÄÄru
-        ³           .description.php
-        ³           .parameters.php
-        ³           
-        ÀÄÄÄtemplates
-            ÀÄÄÄ.default
+â”€â”€â”€mycodeparthner.namemoduleown
+    â”œâ”€â”€â”€name.componentone
+    â”‚   â”‚   .description.php
+    â”‚   â”‚   .parameters.php
+    â”‚   â”‚   class.php
+    â”‚   â”‚   
+    â”‚   â”œâ”€â”€â”€lang
+    â”‚   â”‚   â””â”€â”€â”€ru
+    â”‚   â”‚           .description.php
+    â”‚   â”‚           .parameters.php
+    â”‚   â”‚           
+    â”‚   â””â”€â”€â”€templates
+    â”‚       â””â”€â”€â”€.default
+    â”‚               script.js
+    â”‚               style.css
+    â”‚               template.php
+    â”‚               
+    â””â”€â”€â”€name.componenttwo
+        â”‚   .description.php
+        â”‚   .parameters.php
+        â”‚   class.php
+        â”‚   
+        â”œâ”€â”€â”€lang
+        â”‚   â””â”€â”€â”€ru
+        â”‚           .description.php
+        â”‚           .parameters.php
+        â”‚           
+        â””â”€â”€â”€templates
+            â””â”€â”€â”€.default
                     template.php
-                    
